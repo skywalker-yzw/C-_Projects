@@ -24,8 +24,8 @@ A: This package includes the following items:
 
 2: how to build and execute the code
  
-A: It's easy to compile and run the code. To compile it, just go inside this folder and do "make all". It will generate a "Tesla" executable file. 
-To run the code, just do "./Tesla testfile". Note that the application is expecting a text file and the file name as the command line argument. 
+A: It's easy to compile and run the code. To compile it, just go inside this folder and do "make all". It will generate a "equationEvaluator" executable file. 
+To run the code, just do "./equationEvaluator testfile". Note that the application is expecting a text file and the file name as the command line argument. 
 Error messages will be printed out if we fail to provide the file name or the file doesn't exist.  
 
 
