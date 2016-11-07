@@ -1,0 +1,4 @@
+offset =    4 +   random +  1000
+random = origin +    4
+location   = 1 + origin + offset
+origin      =   100

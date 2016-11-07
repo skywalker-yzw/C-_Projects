@@ -1,0 +1,5 @@
+offset = 4 + random + 1
+random = origin +    4
+location   = 1 + origin + offset
+origin = 3    +   5
+test = offset + location + origin
